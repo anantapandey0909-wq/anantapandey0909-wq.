@@ -35,3 +35,12 @@ https://github.com/anantapandey0909-wq?tab=repositories
 ⭐ Thanks for visiting my profile!
 
 **Keep Learning. Keep Building. Keep Growing.** 🚀
+
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anantapandey0909-wq/anantapandey0909-wq/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anantapandey0909-wq/anantapandey0909-wq/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anantapandey0909-wq/anantapandey0909-wq/output/github-snake.svg">
+</picture>
+
