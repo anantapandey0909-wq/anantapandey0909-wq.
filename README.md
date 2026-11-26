@@ -39,6 +39,6 @@ https://github.com/anantapandey0909-wq?tab=repositories
 
 ## 🐍 My GitHub Contributions
 
-![GitHub Snake](https://cdn.jsdelivr.net/gh/anantapandey0909-wq/anantapandey0909-wq.@output/github-snake.svg)
-
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/anantapandey0909/anantapandey0909-wq.@output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</p>
