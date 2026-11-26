@@ -39,6 +39,6 @@ https://github.com/anantapandey0909-wq?tab=repositories
 
 ## 🐍 My GitHub Contributions
 
-![GitHub Snake](https://raw.githubusercontent.com/anantapandey0909-wq/anantapandey0909-wq./output/github-snake.svg)
+![GitHub Snake](https://cdn.jsdelivr.net/gh/anantapandey0909-wq/anantapandey0909-wq.@output/github-snake.svg)
 
 
