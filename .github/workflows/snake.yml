@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: anantapandey0909-wq
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=blue
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=blue
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
